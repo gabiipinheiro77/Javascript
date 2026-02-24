@@ -1,0 +1,8 @@
+alert("teste de exercício3")
+const media1 = Number(prompt("Digite o peso da pessoa1"))
+const media2 = Number(prompt("Digite o peso da pessoa2"))
+const media3 = Number(prompt("Digite o peso da pessoa3"))
+const media4 = Number(prompt("Digite o peso da pessoa4"))
+const media5 = Number(prompt("Digite o peso da pessoa5"))
+const media = ((media1+media2+media3+media4+media5)/5)
+alert(media)
